@@ -19,11 +19,11 @@ Hi, my name is Guilherme Dores dos Santos I am 18 years old and I live in Brazil
 <div align="center">
   <h2>🤓 MY GITHUB STATS 🤓</h2>
 </div>
-<a href="https://github.com/Guilherme-Santos-dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos-dev&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Guilhormes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilhormes&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-<a href="https://github.com/Guilherme-Santos-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos-dev&theme=tokyonight&hide_langs_below=1" />
+<a href="https://github.com/Guilhormes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhormes&theme=tokyonight&hide_langs_below=1" />
 </a>
 </div>
 
