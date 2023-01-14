@@ -1,6 +1,6 @@
 <hr>
 <h4 align="center">
-Hellow world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+HELLO WORLD <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
   
 
@@ -24,7 +24,7 @@ Olá meu nome é Guilherme, tenho 19 anos, vivo no brasil e sou fascinado por pr
   <h2>💬 MINHAS REDES SOCIAIS 💬</h2>
 </div>
  <div align="center">
-  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b39?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-161b39?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b39?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
