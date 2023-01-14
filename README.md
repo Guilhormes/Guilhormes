@@ -5,31 +5,23 @@ Hellow world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
   
 
 ![Papel_github](https://user-images.githubusercontent.com/106843393/173702908-baccc6e9-cc06-4429-b0d7-35533044bcb1.png)
+  
+
 <div align="center">
-  <h2> 😄 ABOUT ME 😄</h2>
+  <h2> 😄 SOBRE MIM 😄</h2>
 </div>
 <div align="center">
-Hi, my name is Guilherme Dores dos Santos I am 18 years old and I live in Brazil. 
+Olá meu nome é Guilherme, tenho 19 anos, vivo no brasil e sou fascinado por programação .  
   <div align="center">
-    I have been studying programming for 2 months and have not worked with it yet, but I already have knowledge with some languages and intend to work with web development.
+    Ainda sou novo quando se trata de programação, mas estou me esforçando para me tornar um desenvolvedor Frontend
     </div>
 </div>
 
-
-<div align="center">
-  <h2>🤓 MY GITHUB STATS 🤓</h2>
-</div>
-<a href="https://github.com/Guilhormes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilhormes&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-<a href="https://github.com/Guilhormes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhormes&theme=tokyonight&hide_langs_below=1" />
-</a>
-</div>
-
+  <br>
+  
 <div> 
 <div align="center">
-  <h2>💬 MY CONTACTS AND SOCIAL NETWORKS 💬</h2>
+  <h2>💬 MINHAS REDES SOCIAIS 💬</h2>
 </div>
  <div align="center">
   <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
