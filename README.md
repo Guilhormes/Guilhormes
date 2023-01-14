@@ -11,9 +11,9 @@ Hellow world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
   <h2> 😄 SOBRE MIM 😄</h2>
 </div>
 <div align="center">
-Olá meu nome é Guilherme, tenho 19 anos, vivo no brasil e sou fascinado por programação .  
+Olá meu nome é Guilherme, tenho 19 anos, vivo no brasil e sou fascinado por programação.  
   <div align="center">
-    Ainda sou novo quando se trata de programação, mas estou me esforçando para me tornar um desenvolvedor Frontend
+    Ainda sou novo quando se trata de programação, mas estou me esforçando para me tornar um desenvolvedor Frontend.
     </div>
 </div>
 
