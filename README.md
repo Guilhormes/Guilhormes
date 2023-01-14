@@ -32,7 +32,7 @@ Hi, my name is Guilherme Dores dos Santos I am 18 years old and I live in Brazil
   <h2>💬 MY CONTACTS AND SOCIAL NETWORKS 💬</h2>
 </div>
  <div align="center">
-  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-52b5f7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 </div>
