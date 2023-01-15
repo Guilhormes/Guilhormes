@@ -24,7 +24,7 @@ Olá meu nome é Guilherme, tenho 19 anos, vivo no brasil e sou fascinado por pr
   <h2>💬 REDES SOCIAIS 💬</h2>
 </div>
  <div align="center">
-  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b39?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-161b39?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b39?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/guilhormes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-232323?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Guilhormes" target="_blank"><img src="https://img.shields.io/badge/Twitter-232323?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Guilhormes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
